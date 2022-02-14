@@ -1,0 +1,10 @@
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (1, 299, '2021-12-11');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (2, 619, '2021-12-11');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (3, -961, '2021-12-09');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (4, 414, '2021-12-11');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (7, 600, '2021-12-11');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (8, 1000, '2021-12-06');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (11, 12000, '2021-12-06');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (12, -100000, '2021-12-06');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (13, -15000, '2021-12-06');
+insert into Bank.account (AccountNumber, AccountBalance, Date_Accessed) values (14, -100000, '2021-12-06');

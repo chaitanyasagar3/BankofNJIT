@@ -1,0 +1,11 @@
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (89, 'Sahil Kataria', 'Voroneze, Russia', 1, 1, 1);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (476, 'Harsh', 'NJIT', 3, 1, 2);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (756, 'UD', '111 USA', 2, 2, 3);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (936, 'Sahithya', '1198 York Street', 4, 2, 4);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (1001, 'Shelly', '101 York Street', 4, 1, 12);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (2345, 'Nitin Sagar', '111 Washington Street', 1, 1, 13);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (8768, 'Amit', '17/3 DC', 1, 2, 7);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (123456, 'John Stewart', '123 Madison Ave, New York', 1, 0, 8);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (123457, 'James Stewart', '123 Madison Ave, New York', 2, 0, 14);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (123458, 'Maggie Stewar', '123 Madison Ave, New York', 2, 0, 10);
+insert into Bank.customer (Customer_SSN, Customer_Name, Customer_Address, branchid, SSN, AccountNumber) values (123459, 'Peter Swayze', '123 Ridgewood Ave, New Jersey', 4, 0, 11);
